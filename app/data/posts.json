@@ -1,15 +1,24 @@
 {
-  "posts": [
-    {
-      "slug": "titulo-da-postagemm",
-      "title": "Titulo da postagemm",
-      "excerpt": "Resumo da postagem",
-      "content": "Conteudo da postagem",
-      "authors": [
-        { "name": "Guilherme", "email": "guilherme@email.com" },
-        { "name": "Rafael", "email": "rafa@email.com" },
-        { "name": "Samuel", "email": "samuel@email.com" }
-      ]
-    }
-  ]
+    "posts": [
+        {
+            "slug": "titulo-da-postagemm",
+            "title": "Titulo da postagemm",
+            "excerpt": "Resumo da postagem",
+            "content": "Conteudo da postagem",
+            "authors": [
+                {
+                    "name": "Guilherme",
+                    "email": "guilherme@email.com"
+                },
+                {
+                    "name": "Rafael",
+                    "email": "rafa@email.com"
+                },
+                {
+                    "name": "Samuel",
+                    "email": "samuel@email.com"
+                }
+            ]
+        }
+    ]
 }

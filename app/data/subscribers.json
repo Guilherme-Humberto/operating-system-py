@@ -1,1 +1,9 @@
-{"subscribers": [{"name": "Guilherme", "email": "guilherme@email.com", "createdAt": "2022-09-24T22:13:52.960931"}]}
+{
+    "subscribers": [
+        {
+            "name": "Guilherme",
+            "email": "guilherme@email.com",
+            "createdAt": "2022-09-25T02:52:12.447663"
+        }
+    ]
+}

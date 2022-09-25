@@ -10,7 +10,7 @@ def createFile(name, ext, data):
 
     path = os.path.join(destination, f'{name}.{ext}')
     with open(path, 'w') as file:
-        if(ext == 'json'): dump(data, file)
+        if(ext == 'json'): dump(data, file, indent=4)
         else: file.write(data)
         print(f'{name} file updated')
     
